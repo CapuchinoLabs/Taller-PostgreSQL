@@ -1,6 +1,9 @@
-// Autor:  Oscar Ruiz Salinas
-// Fecha: Mayo 205
-// Descripción:  Permite generar el reporte de los componentes que residen en una base de datos Postgresql
+// Archivo:        ReportePostgreSQL.java
+// Versión:        1.0
+// Autor:          Oscar Ruiz / oscarruiz@ciencias.unam.mx
+// Fecha:          Mayo 2025
+// Observaciones:
+//    Permite generar el reporte de los componentes que residen en una base de datos Postgresql
 import java.io.BufferedReader;
 import java.io.Console;
 import java.io.FileReader;
