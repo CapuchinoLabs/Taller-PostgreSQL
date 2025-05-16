@@ -1,3 +1,6 @@
+// Autor:  Oscar Ruiz Salinas
+// Fecha: Mayo 205
+// Descripción:  Permite generar el reporte de los componentes que residen en una base de datos Postgresql
 import java.io.BufferedReader;
 import java.io.Console;
 import java.io.FileReader;
